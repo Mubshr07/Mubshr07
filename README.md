@@ -26,8 +26,6 @@
 
 
 
-<p> <p align="center"> <img src="https://github.com/Mubshr07/Mubshr07/blob/main/ML%20Developing.gif" alt="mubshr07" /> </p> </p>
-
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubshr07&" alt="mubshr07" /></p> -->
 
 

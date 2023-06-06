@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mubashir Iqbal</h1>
-<h3 align="center" style="color:green;">A passionate Web developer and Artificial Intelligence model designer from Pakistan</h3>
+<h3 align="center" style="color:green;">AI models, Web, and C++ developer</h3>
 
 - 💬 I am Expert in:  **AI Model Designing, ML, DL, NLP, Data Science, Front&Back End Development**
 

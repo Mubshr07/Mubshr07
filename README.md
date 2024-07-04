@@ -61,15 +61,31 @@ Keywords: Heart Disease Prediction, NHANES, MLP, Neural Network, Explainable AI,
 
 Here are some of the projects I've worked on:
 
+
+### [PAKVENT-1: Advanced Turbine-Based ICU Ventilator with Real-Time Monitoring and Multi-Mode Support](#)
+- **Description**: Working on the PAKVENT-1 ventilator system has been a delightful journey, where innovation meets compassion. Based on turbine-based airflow, this advanced ventilator comprises a ventilation unit for gas mixing and control, a patient breathing circuit for gas delivery, and real-time oxygen monitoring. It features real-time waveform monitoring, essential operational modes tailored to patient needs, user-friendly knob-based controls, and alerts for any critical conditions. The PAKVENT-1 supports multiple ventilation modes, including Pressure Controlled Mandatory Ventilation (P-CMV), Pressure-Synchronized Intermittent Mandatory Ventilation (P-SIMV), and Continuous Positive Airway Pressure (CPAP), among others. Powered by the DE10-Nano processing device and developed using the Qt C++ framework version 5.10, the device's intuitive design and reliable performance make it an invaluable asset in medical settings, ensuring optimal patient care and safety.
+- **Tech Stack**: Qt C++ Framework version 5.10, QWidgetApplication, Linux 18.04, Embedded Linux, LXDE, DE10-Nano Development Kit. Air Turbine, Air-Flow Sensors, Air Pressure Sensors, Oxygen Sensor, etc
+
+
 ### [Heart Disease Prediction using MLP model and analysis of prediction using SHAP (XAI)](https://github.com/Mubshr07/XAI_Cardiovascular_Risk_Assessment)
 - **Description**: An MLP Model to predict the likelihood of heart disease in the NHANES dataset.
 - **Tech Stack**: Python, Scikit-learn, Pandas, SHAP
 <!-- - **Highlights**: Achieved an AUC of 0.93, implemented various resampling techniques to handle class imbalance.  -->
 
 
-### [Audio Cloud Web-Application](https://github.com/your-username/chat-application)
+
+
+### [Audio Cloud Web-Application](https://github.com/Mubshr07/Audio-Cloud-Web-Application)
 - **Description**: Audio Cloud is a comprehensive platform that enables users to upload, manage, and share audio files securely. It includes user registration with email verification, secure login, and role-based authorization for uploading files. The platform features an online audio player, engagement metrics (likes, dislikes, shares), and file deletion. Users can organize audio files into categories and search by title, tags, or categories, ensuring efficient content management and user interaction. Audio Cloud aims to provide a seamless, secure, and scalable environment for audio content sharing.
-- **Tech Stack**: PHP, MySQL, HTML5, CSS3, BootStrap, JaveScript, Jquery, JSON, AJAX,
+- **Tech Stack**: PHP, MySQL, HTML5, CSS3, BootStrap, JavaScript, jQuery, JSON, AJAX,
+
+### [Online Pakistan Cars and Bikes Web Application](https://github.com/Mubshr07/Online_Pak_Cars_and_Bikes_WebApplication)
+- **Description**: OPCB (Online Pak Cars & Bikes) is a web-based platform for buying and selling vehicles, using core PHP, JavaScript, HTML5, and MySQL. Users can register, log in, and manage vehicle ads with features like search filters, vehicle comparisons, and seller contact info. The platform also provides detailed reports on user registrations and top-selling and most-searched vehicles. OPCB aims to automate and streamline the vehicle sales process.
+- **Tech Stack**: PHP, MySQL, HTML5, CSS3, BootStrap, JavaScript, jQuery, JSON, AJAX,
+
+
+
+
 <!--
 - **Highlights**: Audio Cloud is a platform for users to sign up, upload, and share audio files with features like user registration, email verification, login, and role-based authorization. Key functionalities include an online audio player, engagement metrics (likes, dislikes, shares), file deletion, categorization, and advanced search options. -->
 

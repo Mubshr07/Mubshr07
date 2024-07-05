@@ -66,6 +66,20 @@ Here are some of the projects I've worked on:
 - **Description**: Working on the PAKVENT-1 ventilator system has been a delightful journey, where innovation meets compassion. Based on turbine-based airflow, this advanced ventilator comprises a ventilation unit for gas mixing and control, a patient breathing circuit for gas delivery, and real-time oxygen monitoring. It features real-time waveform monitoring, essential operational modes tailored to patient needs, user-friendly knob-based controls, and alerts for any critical conditions. The PAKVENT-1 supports multiple ventilation modes, including Pressure Controlled Mandatory Ventilation (P-CMV), Pressure-Synchronized Intermittent Mandatory Ventilation (P-SIMV), and Continuous Positive Airway Pressure (CPAP), among others. Powered by the DE10-Nano processing device and developed using the Qt C++ framework version 5.10, the device's intuitive design and reliable performance make it an invaluable asset in medical settings, ensuring optimal patient care and safety.
 - **Tech Stack**: Qt C++ Framework version 5.10, QWidgetApplication, Linux 18.04, Embedded Linux, LXDE, DE10-Nano Development Kit. Air Turbine, Air-Flow Sensors, Air Pressure Sensors, Oxygen Sensor, etc
 
+### [Gases Monitoring System Control](#)
+- **Description**: This Qt C++ desktop application monitors lab room environmental variables like CO2, temperature, humidity, and pressure, providing real-time visualization through plots. It uses the hidapi.h library to control USB-Switches-Relay modules, toggling lab equipment. The DataFetcher class handles sensor data, threshold checks, and relay activation, while the Qlogger class logs the system's operational state. Supported sensors include BME680, BME688, SGP30, SGP41, ENS160, MiCS5524, MS5803_05BA, TED1X, and USB_RELAY_Switches, ensuring effective monitoring and automated control of lab environments.
+- **Tech Stack**: Qt C++ Framework, QWidgetApplication, 
+
+
+### [Custom SerialPort Monitor & Communication](https://github.com/Mubshr07/CustomSerialPortMonitorCommunication)
+- **Description**: Custom Serial Port Monitor offers a robust solution for serial port communication on Windows, supporting RS232 and RS485 protocols. It provides comprehensive monitoring, logging, and real-time data visualization in hexadecimal and ASCII formats, along with serial device simulation. Features include script-based automated testing, customizable data sequences, and response definitions, making it invaluable for developers and engineers in debugging, testing, and simulating serial communication.
+- **Tech Stack**: Qt C++ Framework, QWidgetApplication, 
+
+
+### [2048 Puzzle Game](https://github.com/Mubshr07/2048PuzzleGame)
+- **Description**: The Custom 2048 Game is an addictive single-player puzzle created by Gabriele Cirulli in 2014. The objective is to combine numbered tiles on a 4x4 grid to reach 2048. Developed using the Qt Framework with a C++ backend, players slide tiles in four directions, merging tiles and adding new ones with each move. The game requires strategic planning to win and avoid running out of moves.
+- **Tech Stack**: Qt C++ Framework, QWidgetApplication, 
+
 
 ### [Heart Disease Prediction using MLP model and analysis of prediction using SHAP (XAI)](https://github.com/Mubshr07/XAI_Cardiovascular_Risk_Assessment)
 - **Description**: An MLP Model to predict the likelihood of heart disease in the NHANES dataset.

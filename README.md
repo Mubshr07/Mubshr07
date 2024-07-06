@@ -72,29 +72,26 @@ Here are some of the projects I've worked on:
 
 
 ### [Custom SerialPort Monitor & Communication](https://github.com/Mubshr07/CustomSerialPortMonitorCommunication)
-- **Description**: Custom Serial Port Monitor offers a robust solution for serial port communication on Windows, supporting RS232 and RS485 protocols. It provides comprehensive monitoring, logging, and real-time data visualization in hexadecimal and ASCII formats, along with serial device simulation. Features include script-based automated testing, customizable data sequences, and response definitions, making it invaluable for developers and engineers in debugging, testing, and simulating serial communication.
+<!-- - **Description**: Custom Serial Port Monitor offers a robust solution for serial port communication on Windows, supporting RS232 and RS485 protocols. It provides comprehensive monitoring, logging, and real-time data visualization in hexadecimal and ASCII formats, along with serial device simulation. Features include script-based automated testing, customizable data sequences, and response definitions, making it invaluable for developers and engineers in debugging, testing, and simulating serial communication. -->
 - **Tech Stack**: Qt C++ Framework, QWidgetApplication, 
 
 
 ### [2048 Puzzle Game](https://github.com/Mubshr07/2048PuzzleGame)
-- **Description**: The Custom 2048 Game is an addictive single-player puzzle created by Gabriele Cirulli in 2014. The objective is to combine numbered tiles on a 4x4 grid to reach 2048. Developed using the Qt Framework with a C++ backend, players slide tiles in four directions, merging tiles and adding new ones with each move. The game requires strategic planning to win and avoid running out of moves.
+<!-- - **Description**: The Custom 2048 Game is an addictive single-player puzzle created by Gabriele Cirulli in 2014. The objective is to combine numbered tiles on a 4x4 grid to reach 2048. Developed using the Qt Framework with a C++ backend, players slide tiles in four directions, merging tiles and adding new ones with each move. The game requires strategic planning to win and avoid running out of moves. -->
 - **Tech Stack**: Qt C++ Framework, QWidgetApplication, 
 
 
 ### [Heart Disease Prediction using MLP model and analysis of prediction using SHAP (XAI)](https://github.com/Mubshr07/XAI_Cardiovascular_Risk_Assessment)
-- **Description**: An MLP Model to predict the likelihood of heart disease in the NHANES dataset.
-- **Tech Stack**: Python, Scikit-learn, Pandas, SHAP
+<!-- - **Description**: An MLP Model to predict the likelihood of heart disease in the NHANES dataset. -->
+- **Tech Stack**: Python, Jupyter-NoteBook, Scikit-learn, Pandas, NumPy, MLP, Neural-Network, XAI, SHAP, Feature-Ranking, Summary-Plot, WaterFall-Plot,
 <!-- - **Highlights**: Achieved an AUC of 0.93, implemented various resampling techniques to handle class imbalance.  -->
 
-
-
-
 ### [Audio Cloud Web-Application](https://github.com/Mubshr07/Audio-Cloud-Web-Application)
-- **Description**: Audio Cloud is a comprehensive platform that enables users to upload, manage, and share audio files securely. It includes user registration with email verification, secure login, and role-based authorization for uploading files. The platform features an online audio player, engagement metrics (likes, dislikes, shares), and file deletion. Users can organize audio files into categories and search by title, tags, or categories, ensuring efficient content management and user interaction. Audio Cloud aims to provide a seamless, secure, and scalable environment for audio content sharing.
+<!-- - **Description**: Audio Cloud is a comprehensive platform that enables users to upload, manage, and share audio files securely. It includes user registration with email verification, secure login, and role-based authorization for uploading files. The platform features an online audio player, engagement metrics (likes, dislikes, shares), and file deletion. Users can organize audio files into categories and search by title, tags, or categories, ensuring efficient content management and user interaction. Audio Cloud aims to provide a seamless, secure, and scalable environment for audio content sharing. -->
 - **Tech Stack**: PHP, MySQL, HTML5, CSS3, BootStrap, JavaScript, jQuery, JSON, AJAX,
 
 ### [Online Pakistan Cars and Bikes Web Application](https://github.com/Mubshr07/Online_Pak_Cars_and_Bikes_WebApplication)
-- **Description**: OPCB (Online Pak Cars & Bikes) is a web-based platform for buying and selling vehicles, using core PHP, JavaScript, HTML5, and MySQL. Users can register, log in, and manage vehicle ads with features like search filters, vehicle comparisons, and seller contact info. The platform also provides detailed reports on user registrations and top-selling and most-searched vehicles. OPCB aims to automate and streamline the vehicle sales process.
+<!-- - **Description**: OPCB (Online Pak Cars & Bikes) is a web-based platform for buying and selling vehicles, using core PHP, JavaScript, HTML5, and MySQL. Users can register, log in, and manage vehicle ads with features like search filters, vehicle comparisons, and seller contact info. The platform also provides detailed reports on user registrations and top-selling and most-searched vehicles. OPCB aims to automate and streamline the vehicle sales process. -->
 - **Tech Stack**: PHP, MySQL, HTML5, CSS3, BootStrap, JavaScript, jQuery, JSON, AJAX,
 
 

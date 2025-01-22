@@ -59,7 +59,7 @@ Keywords: Heart Disease Prediction, NHANES, MLP, Neural Network, Explainable AI,
 
 |  Company  | Designation / Job Responsibilities                                             | From |  To  |
 | :-------- | :------ | :--:  | :--: |
-| [HITEC University, Taxila - PK](https://cuiwah.edu.pk/) | i join this university as a lecturer in Computer Science Department. I teach Introduction to Data Science, Technical Report Writing, and Information Assurance in Cyber Security. I also founded the Cyber Society to help students apply theoretical knowledge to practical projects, fostering professional skills and innovation. | Oct-2024  | Present |
+| [HITEC University, Taxila - PK](https://hitecuni.edu.pk/Faculties/Default.aspx?i=6) | i join this university as a lecturer in Computer Science Department. I teach Introduction to Data Science, Technical Report Writing, and Information Assurance in Cyber Security. I also founded the Cyber Society to help students apply theoretical knowledge to practical projects, fostering professional skills and innovation. | Oct-2024  | Present |
 | Electronics Research and Development Department | In my role at Electronics Research and Development, I designed and developed electronic systems, reverse-engineered legacy devices, and created Ubuntu-based software using Qt C++ for automatic testing of different electronic modules. I integrated advanced components, ensured system reliability, and managed project timelines, documentation, and team collaboration effectively. | Jan-2012  | Sep-2024 |
 
 

@@ -1,9 +1,9 @@
 # Hi 👋, I'm Mubashir Iqbal
-### AI Researcher | XAI | MLOps | Qt C++ Software Engineer | Web Developer
+### Lecturer | AI Researcher | XAI | MLOps | Software Engineer | Web Developer
 
 
 ## 🚀 About Me
-As an AI expert and Qt C++ software developer, I specialize in Machine Learning, Natural Language Processing, and Advanced Text Analytics. I create robust systems for both desktop and embedded environments, leveraging tools like Apache Server, PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Django, and WordPress. Currently, I work in a government Electronics Research and Development department, focusing on designing, developing, and reverse-engineering electronic modules. I am passionate about continuous learning and innovation, always pushing the boundaries of what's possible in technology.👨🏻‍ 👨🏻‍💻
+I am a dedicated academician, researcher, and software engineer with expertise in artificial intelligence (AI), machine learning, and system development. With a strong foundation in teaching, mentoring, and research, I excel at managing projects, ensuring quality deliverables, and addressing complex technical challenges. My ability to integrate innovative solutions with effective problem-solving and analytical thinking makes me a valuable asset to any team. I create robust systems for both desktop and embedded environments, leveraging programming languages like, C++ (Qt Framework), Python, PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript, Django, and WordPress. I have experoience in Electronics Research and Development department, focusing on designing, developing, and reverse-engineering different modules.  I am ready to contribute to your organization’s success and drive impactful advancements in technology and education.👨🏻‍ 👨🏻‍💻
  
 ## Connect with me:
 <a href="https://www.facebook.com/mubshr07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mubshr07/" height="30" width="40" /></a> 
@@ -55,12 +55,19 @@ Keywords: Heart Disease Prediction, NHANES, MLP, Neural Network, Explainable AI,
 
  
 
+## 4. Work Experience
+
+|  Company  | Designation / Job Responsibilities                                             | From |  To  |
+| :-------- | :------ | :--:  | :--: |
+| [HITEC University, Taxila - PK](https://cuiwah.edu.pk/) | i join this university as a lecturer in Computer Science Department. I teach Introduction to Data Science, Technical Report Writing, and Information Assurance in Cyber Security. I also founded the Cyber Society to help students apply theoretical knowledge to practical projects, fostering professional skills and innovation. | Oct-2024  | Present |
+| Electronics Research and Development Department | In my role at Electronics Research and Development, I designed and developed electronic systems, reverse-engineered legacy devices, and created Ubuntu-based software using Qt C++ for automatic testing of different electronic modules. I integrated advanced components, ensured system reliability, and managed project timelines, documentation, and team collaboration effectively. | Jan-2012  | Sep-2024 |
 
 
-## 4. Projects
 
-Here are some of the projects I've worked on:
 
+## 5. Projects
+
+Here are some projects. Some are developed solely and some are developed in a team:
 
 ### [PAKVENT-1: Advanced Turbine-Based ICU Ventilator with Real-Time Monitoring and Multi-Mode Support](#)
 - **Description**: Working on the PAKVENT-1 ventilator system has been a delightful journey, where innovation meets compassion. Based on turbine-based airflow, this advanced ventilator comprises a ventilation unit for gas mixing and control, a patient breathing circuit for gas delivery, and real-time oxygen monitoring. It features real-time waveform monitoring, essential operational modes tailored to patient needs, user-friendly knob-based controls, and alerts for any critical conditions. The PAKVENT-1 supports multiple ventilation modes, including Pressure Controlled Mandatory Ventilation (P-CMV), Pressure-Synchronized Intermittent Mandatory Ventilation (P-SIMV), and Continuous Positive Airway Pressure (CPAP), among others. Powered by the DE10-Nano processing device and developed using the Qt C++ framework version 5.10, the device's intuitive design and reliable performance make it an invaluable asset in medical settings, ensuring optimal patient care and safety.
@@ -95,55 +102,17 @@ Here are some of the projects I've worked on:
 - **Tech Stack**: PHP, MySQL, HTML5, CSS3, BootStrap, JavaScript, jQuery, JSON, AJAX,
 
 
+ 
 
 
-<!--
-- **Highlights**: Audio Cloud is a platform for users to sign up, upload, and share audio files with features like user registration, email verification, login, and role-based authorization. Key functionalities include an online audio player, engagement metrics (likes, dislikes, shares), file deletion, categorization, and advanced search options. -->
-
- <!--
-## 4. Profile Links 📫:
-
-|  Platform | Link  |
-| --------- | ----- |
-| Google Scholar  | [https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ](https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ)  |
-| Scopus  | [https://www.scopus.com/authid/detail.uri?authorId=57417085200](https://www.scopus.com/authid/detail.uri?authorId=57417085200)  |
-| LinkedIn  | [https://www.linkedin.com/in/rashid-rao-cuipakistan/](https://www.linkedin.com/in/rashid-rao-cuipakistan/)  |
-| ResearchGate  | [https://www.researchgate.net/profile/Muhammad-Rashid-65](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
-| SementicScholor  | [https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837](https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837)  |
-| ORCID  | [https://orcid.org/0000-0002-2557-6845](https://orcid.org/0000-0002-2557-6845/)  |
-| UnderLine  | [https://underline.io/speakers/254136-muhammad-rashid](https://underline.io/speakers/254136-muhammad-rashid)  |
-| Sciprofiles  | [https://sciprofiles.com/profile/rashidmuhammad](https://sciprofiles.com/profile/rashidmuhammad)  |
-| Loop Frontiersin  | [https://loop.frontiersin.org/people/2290013](https://loop.frontiersin.org/people/2290013)  |
-| Cousera  | [https://www.coursera.org/learner/rashidrao-pk](https://www.coursera.org/learner/rashidrao-pk)  |
-
-
-## 4. Connect with me:
-|  S/N | Link | Platform Name |
-|  :---| :---  |  :--- |
-|  I.  | <a href="https://fb.com/https://www.facebook.com/mubshr07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mubshr07/" height="30" width="40" /></a> | FaceBook Profile |
-|  II.  | <a href="https://linkedin.com/in/https://www.linkedin.com/in/mubshr07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mubshr07/" height="30" width="40"/></a> | Linked In Profile |
-|  III.  | <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8741338/mubashir-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8741338/mubashir-iqbal" height="30" width="40" /></a> | StackOverFlow Profile |
-|  IV.  | <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mubshr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mubshr7" height="30" width="40" /></a> | HackerRank Profile |
-|  V.  | <a href="https://kaggle.com/mubashiriqbal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mubashiriqbal07" height="30" width="40" /></a> | Kaggle Profile |
-|  VI.  | [mubshr07@gmail.com](emailto:mubshr07@gmail.com) | Google Email |
-|  VII.  | [+92 318 5099232](tel:00923185099232) | Mobile |
-
-
-
-<br>
--->
-
-   
-
-
-## 5. Programming Languages and Tools:
+## 6. Programming Languages and Tools:
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-## 6. Github Stats:
+## 7. Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubshr07&show_icons=true&locale=en&layout=compact" alt="mubshr07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubshr07&show_icons=true&locale=en" alt="mubshr07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubshr07&" alt="mubshr07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubshr07" alt="mubshr07" /></p>
 

@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mubashir Iqbal
-### Lecturer | AI Researcher | XAI | MLOps | Software Engineer | Web Developer
+### Lecturer | Data Science Research | Artificial Intelligence | System Engineering & Automation
 
 
 ## 🚀 About Me
@@ -164,3 +164,4 @@ Here are some projects. Some are developed solely and some are developed in a te
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubshr07" alt="mubshr07" /></p>
 
+_________

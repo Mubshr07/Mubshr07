@@ -94,6 +94,29 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 
  
 
+##  4. Short Course 📝:
+| Sr. No. | Certificate Name                           | Issued By            |   Dated         | Course Length | Certificate |
+| :---: | ------------------                           | ------------         |   :---:         |   :---:   |     :---:   |
+| 1.    | [IBM Machine Learning Professional Certificate]() | [IBM Coursera]() |   Continue   | 130 hours   |  [LINK]()   |
+| 2.    | [Machine Learning Capstone](https://www.coursera.org/learn/machine-learning-capstone?specialization=ibm-machine-learning) | [IBM Coursera]() |  Continue   | 20 hours   |  [LINK]()   |
+| 3.    | [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning?specialization=ibm-machine-learning) | [IBM Coursera]() |   Continue   | 32 hours   |  [LINK]()   |
+| 4.    | [Unsupervised Machine Learning](https://www.coursera.org/learn/ibm-unsupervised-machine-learning) | [IBM Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning) |  30-08-2025   | 23 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/GJJT2MYO6YKJ)   |
+| 5.    | [Supervised Machine Learning: Classification](https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-machine-learning) | [IBM Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning) |  26-08-2025   | 25 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/HLHSYP949NHO)   |
+| 6.    | [Supervised Machine Learning: Regression](https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-machine-learning) | [IBM Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning) |  17-08-2025   | 20 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/3S31DVX610GM)   |
+| 7.    | [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning?specialization=ibm-machine-learning) | [IBM Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning) |  16-08-2025   | 14 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/D1IVKMDP7J5Q)   |
+| 8.    | [How to write a research paper](https://www.coursera.org/learn/research) | [HEC, Pakistan]() |  31-08-2025   | 03 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/9BUVDRSCMFTD)   |
+| 9.    | [Cisco CCNA (200-301) Specialization](https://www.coursera.org/specializations/packt-cisco-ccna-200-301) | [Packt Coursera](https://www.coursera.org/instructor/~158375127) |  23-07-2025   | 40 hours   |  [LINK](https://www.coursera.org/account/accomplishments/specialization/2IBKROD1V9YK)   |
+| 10.    | [Basics of Cisco Networking](https://www.coursera.org/learn/basics-of-cisco-networking) | [LearnQuest Coursera]() |  22-07-2025   | 11 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/5MGFPGHUJT9H)   |
+| 11.    | [Programming for Everybody (Python)](https://www.coursera.org/learn/python) | [University of Michigan]() | 25-07-2025   | 18 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/Q39RUSR1A8Z9)   ||
+
+<!--
+| 11.    | [Sup ]() | [IBM Coursera]() |  30-08-2025   | 23 hours   |  [LINK]()   ||
+| 11.    | [Sup ]() | [IBM Coursera]() |  30-08-2025   | 23 hours   |  [LINK]()   |
+-->
+
+
+
+<!--
 ##  4. Course & Skills 📝:
 | Sr. No. | Course Name   | Issued By                                | Dated                         | Course Length | Certificate |
 | :-----: | ------------------ | ------------                             | :---:                         |   :---:       |     :---:   |
@@ -103,7 +126,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 | IV. | SEO (Blogging) |	[DigiSkills Platform](https://digiskills.pk/Default.aspx) | May-2023 ~ Aug-2023 | 3 Months | <a href='#'>Yes</a>   |
 | V. | Affiliate Marketing |	[DigiSkills Platform](https://digiskills.pk/Default.aspx) | July-2023 ~ Oct-2023 | 3 Months | <a href='#'>Yes</a>   |
 | VI. | Video Editing |	[DigiSkills Platform](https://digiskills.pk/Default.aspx) | Nov-2023 ~ Feb-2024 | 3 Months | <a href='#'>Yes</a>   |
-
+-->
 
 ## 5. Languages :
 

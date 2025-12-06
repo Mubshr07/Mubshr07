@@ -97,6 +97,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 ##  4. Short Course 📝:
 | Sr. No. | Certificate Name                           | Issued By            |   Dated         | Course Length | Certificate |
 | :---: | ------------------                           | ------------         |   :---:         |   :---:   |     :---:   |
+| 0.    | [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke) | Duke University |  05-01-2026   | 6 Months   |  [LINK]()   |
 | 1.    | [Specialized Models: Time Series and Survival Analysis – IBM](https://www.coursera.org/learn/time-series-survival-analysis) | IBM Coursera |  18-09-2025   | 11 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/R8DJXM39F9YW)   |
 | 2.    | [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) | IBM Coursera |   09-09-2025   | 130 hours   |  [LINK](https://www.coursera.org/account/accomplishments/specialization/PLD7JKZ7BCV4)   |
 | 3.    | [Machine Learning Capstone](https://www.coursera.org/learn/machine-learning-capstone?specialization=ibm-machine-learning) | [IBM Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning) |  09-09-2025   | 20 hours   |  [LINK](https://www.coursera.org/account/accomplishments/verify/VWXNJUA7KFYM)   |

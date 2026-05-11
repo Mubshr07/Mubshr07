@@ -267,11 +267,31 @@ Here are some projects. Some are developed solely and some are developed in a te
 
 
 
-## 8. Github Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubshr07&show_icons=true&locale=en&layout=compact" alt="mubshr07" /></p>
+## 📊 8. GitHub Stats & Activity
+<!-- 🔹 Top Languages & Overview (Side-by-Side on Desktop) -->
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: flex-start; margin: 20px 0;">
+  <!-- Top Languages -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubshr07&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="width: 100%; height: auto;" />
+  </div>  
+  <!-- Profile Overview -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mubshr07&show_icons=true&locale=en&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Overview" style="width: 100%; height: auto;" />
+  </div>
+</div>
+<!-- 🔹 Streak Stats (Full Width) -->
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubshr07&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Commit Streak" style="width: 100%; max-width: 450px; height: auto;" />
+</div>
+<!-- 🔹 GitHub Trophies (Optional - Full Width) -->
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=mubshr07&theme=github-dark&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" style="width: 100%; max-width: 800px; height: auto;" />
+</div>
+<!-- 🔹 Profile Views Counter (Bottom Center) -->
+<div style="text-align: center; margin: 25px 0 10px;">
+  <img src="https://komarev.com/ghpvc/?username=mubshr07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <sub><i>Thanks for visiting! 🙏</i></sub>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubshr07&show_icons=true&locale=en" alt="mubshr07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubshr07" alt="mubshr07" /></p>
-
-_________
+  

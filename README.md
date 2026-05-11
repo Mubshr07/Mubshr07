@@ -7,15 +7,18 @@ I am Mubashir Iqbal, a Computer Science professional with a Master’s from COMS
 
 Looking forward to collaborating and making a meaningful impact! 
 ## Connect with me:
-<a href="https://www.facebook.com/mubshr07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mubshr07/" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/mubshr07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mubshr07/" height="30" width="40"/></a> 
-<a href="https://stackoverflow.com/users/8741338/mubashir-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8741338/mubashir-iqbal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mubshr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mubshr7" height="30" width="40" /></a> 
-<a href="https://kaggle.com/mubashiriqbal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mubashiriqbal07" height="30" width="40" /></a>
-<br>
+<div style="margin-bottom: 50px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 150px; align-items: center;">
+    <a href="https://www.facebook.com/mubshr07/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" style="width: 40px; height: 40px;" /> </a>
+    <a href="https://www.linkedin.com/in/mubshr07/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="width: 40px; height: 40px;" /> </a>
+    <a href="https://stackoverflow.com/users/8741338/mubashir-iqbal" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" style="width: 40px; height: 40px;" /> </a>
+    <a href="https://www.hackerrank.com/profile/mubshr7" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" style="width: 40px; height: 40px;" /> </a>
+    <a href="https://kaggle.com/mubashiriqbal07" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" style="width: 40px; height: 40px;" /> </a>
+  </div>
+</div>
+
 #### [Email: mubshr07@gmail.com](emailto:mubshr07@gmail.com)  
 #### [Mobile: +923185099232](tel:+923185099232) 
-
 
 <!--
 ## 1. Research Projects 🤖🧠👾
@@ -23,32 +26,50 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 -->
 
 ## 1. Work Experience
-### a. [HITEC University, Taxila - PK](https://hitecuni.edu.pk/Faculties/Default.aspx?i=6) :  
- ( **_Nov-2024 ~ Present_** )  <br>
- **Designation**:     <u>**_Lecturer_**</u> <br>
- **Courses**: Introduction to DataScience, Data-Structures and Algorithms.  
-#### Responsibilities:  
-- ***Teaching & Lecturing***: Deliver engaging lectures, tutorials, and lab sessions in computing course materials and assessments.
-- ***Curriculum Development***: Update and improve course content aligned with the latest industry trends and academic standards
-- ***Student Mentorship***: Guide students academically, advise on course selection, and mentor final-year projects or internships.
-- ***Professional Growth***: Stay updated with new teaching methods and emerging technologies; participate in academic networks and events.
-- ***Academic Service***: Contribute to committees, program reviews, and departmental activities, including admissions and accreditations.
-- ***Exam Administration***: Supervise exams, ensure fairness, and manage exam protocols and discipline.
+### 👨‍🏫 a. [Khanpur Institute of Technology, Khanpur, Rahim Yar Khan - PK](https://thekit.edu.pk/our-faculty/) :  
+**Designation**: *Lecturer*  
+**Duration**: ( **_April-2026 ~ Present_** )
+**Core Courses Taught**: Artificial Intelligence, Operating Systems, Computer Organization & Assembly Language (COAL)  
+#### 🎓 Key Responsibilities
+| Area | Contributions |
+|------|--------------|
+| **🎓 Teaching & Instruction** | Deliver interactive lectures, tutorials, and hands-on lab sessions; design competency-based assessments aligned with program learning outcomes and industry-relevant standards. |
+| **🤝 Career Counselling & Industrial Placement** | Lead the *Career Counselling & Industrial Placement Office*; guide students in developing professional skills, obtaining industry-recognized certifications (e.g., Cisco, Microsoft, AWS), and securing internships/placements with partner organizations. |
+| **🔬 Curriculum Development** | Review and enhance course content to integrate emerging technologies (e.g., Explainable AI, IoT, Cloud Computing), practical projects, and competency-based learning frameworks. |
+| **📈 Professional Development** | Continuously update pedagogical practices through workshops, conferences, and academic networks; incorporate active learning and project-based methodologies to improve student engagement. |
+| **⚙️ Academic Service** | Contribute to departmental committees, program reviews, accreditation processes (e.g., NCBTE/PEC), and student recruitment initiatives to uphold institutional quality standards. |
 
 
-### b. [Expert Engineering Solutions, Taxila - PK](#) :  
- **Designation**:     <u>**_Software Developer in Electronics R&D Department**</u> <br>
-#### Responsibilities:  
-- Designed, developed, and maintained cross-platform desktop applications using Qt C++.
-- Implemented real-time data acquisition and visualization tools for embedded systems.
-- Developed custom GUI applications interfacing with microcontrollers (e.g., STM32) via UART/SPI/I2C.
-- Integrated sensors and communication modules for system diagnostics and control panels.
-- Wrote clean, modular, and efficient code following object-oriented principles and Agile methodologies.
-- Collaborated with hardware engineers to support reverse engineering and testing legacy electronic systems.
-- Created unit tests, managed version control via Git, and documented technical specifications.
-- Optimized application performance and ensured stability across Linux and Windows environments.
+### 👨‍🏫 b. [HITEC University, Taxila, Pakistan](https://hitecuni.edu.pk/Faculties/Default.aspx?i=6)  
+**Designation**: *Lecturer*  
+**Duration**: *Nov 2024 – Mar 2026*   
+**Core Courses Taught**: Introduction to Data Science, Artificial Intelligence, Data Structures & Algorithms, Applied Information & Communication Technology (AICT)  
+#### 🎓 Key Responsibilities
+| Area | Contributions |
+|------|--------------|
+| **🎓 Teaching & Instruction** | Deliver interactive lectures, tutorials, and hands-on lab sessions; design competency-based assessments aligned with program learning outcomes and industry-relevant standards. |
+| **🔬 Curriculum Development** | Review and modernize course content to integrate emerging tools (e.g., Python, Pandas, Scikit-learn), real-world datasets, and project-based learning frameworks. |
+| **🤝 Student Mentorship** | Provide academic advising, guide course selection, and supervise final-year projects and internship preparations to strengthen students' technical and professional readiness. |
+| **📈 Professional Development** | Engage in pedagogical workshops, academic conferences, and scholarly networks to adopt innovative teaching strategies and stay current with AI/DS advancements. |
+| **⚙️ Academic Service** | Contribute to departmental committees, program evaluations, accreditation support (e.g., NCBTE/PEC), and student recruitment initiatives. |
+| **📝 Exam Administration** | Oversee examination processes, ensure academic integrity, enforce assessment protocols, and maintain fair, transparent evaluation practices. |
 
 
+### 💼 c. [Project Management Organization, Taxila, Pakistan](#)  
+**Designation**: *Software Developer – Electronics R&D Department*  
+**Duration**: *Jan 2012 – Oct 2024*   
+**Tech Stack**: Qt/C++ • Embedded Systems • STM32 • UART/SPI/I2C • Git • Linux/Windows  
+#### 🔧 Key Responsibilities & Achievements
+| Area | Contributions |
+|------|--------------|
+| **💻 Application Development** | Designed, developed, and maintained cross-platform desktop applications using **Qt/C++**, delivering robust tools for real-time system monitoring and control. |
+| **📡 Embedded Integration** | Implemented real-time data acquisition and visualization modules for embedded systems; developed custom GUIs interfacing with **STM32 microcontrollers** via UART, SPI, and I2C protocols. |
+| **🔌 Hardware-Software Co-Design** | Integrated sensors, communication modules, and diagnostic interfaces to enable seamless control-panel operations and system health monitoring. |
+| **⚙️ Code Quality & Practices** | Wrote clean, modular, and efficient code following **object-oriented principles** and **Agile methodologies**; conducted peer reviews and refactored legacy components for maintainability. |
+| **🤝 Cross-Functional Collaboration** | Partnered with hardware engineers to support reverse engineering, testing, and validation of legacy electronic systems—bridging firmware and application-layer requirements. |
+| **🧪 Testing & DevOps** | Created unit tests, managed version control via **Git**, and authored technical documentation to ensure reproducibility, traceability, and team onboarding efficiency. |
+| **🚀 Performance Optimization** | Profiled and optimized application performance, ensuring stability, low latency, and resource efficiency across **Linux** and **Windows** deployment environments. |
+ 
 
 ## 2. Educational Achievements 🎓: 
 
@@ -179,7 +200,71 @@ Here are some projects. Some are developed solely and some are developed in a te
 
 
 ## 7. Programming Languages and Tools:
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<div style="margin-bottom: 20px;">
+  <h4 style="margin: 0 0 10px 0;">💻 Programming Languages</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 40px; height: 40px;" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 40px; height: 40px;" /></a>
+  </div>
+</div>
+<div style="margin-bottom: 20px;">
+  <h4 style="margin: 0 0 10px 0;">⚙️ Frameworks & Libraries</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.gtk.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" style="width: 40px; height: 40px;" /></a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" style="width: 40px; height: 40px;" /></a>
+  </div>
+</div>
+<div style="margin-bottom: 20px;">
+  <h4 style="margin: 0 0 10px 0;">📊 Data Visualization</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <a href="https://canvasjs.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noopener noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" style="width: 40px; height: 40px;" /></a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" style="width: 40px; height: 40px;" /></a>
+  </div>
+</div>
+<div style="margin-bottom: 20px;">
+  <h4 style="margin: 0 0 10px 0;">🗄️ Databases</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 40px; height: 40px;" /></a>
+  </div>
+</div>
+<div style="margin-bottom: 20px;">
+  <h4 style="margin: 0 0 10px 0;">🤖 Machine Learning & AI</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="width: 40px; height: 40px;" /></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" style="width: 40px; height: 40px;" /></a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" style="width: 40px; height: 40px;" /></a>
+  </div>
+</div>
+<div style="margin-bottom: 20px;">
+  <h4 style="margin: 0 0 10px 0;">🔧 Tools & DevOps</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" style="width: 40px; height: 40px;" /></a>
+  </div>
+</div>
+<div style="margin-bottom: 20px;">
+  <h4 style="margin: 0 0 10px 0;">🎨 Design Tools</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" style="width: 40px; height: 40px;" /></a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" style="width: 40px; height: 40px;" /></a>
+  </div>
+</div>
+
+
 
 
 ## 8. Github Stats:

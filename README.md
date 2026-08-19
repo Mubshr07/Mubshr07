@@ -1,9 +1,9 @@
 # Hi 👋, I'm Mubashir Iqbal
-### Lecturer | Data Science Research | Artificial Intelligence | System Engineering & Automation
+### PhD Scholar | Lecturer | Data Science Research | Artificial Intelligence | System Engineering & Automation
 
 
 ## 🚀 About Me
-I am Mubashir Iqbal, a Computer Science professional with a Master’s from COMSATS University Islamabad and a Bachelor’s from Virtual University Pakistan. Currently, I serve as a Lecturer at HITEC University, teaching and mentoring undergraduate students. My expertise includes AI, machine learning, data science, and software engineering, with a strong focus on system reliability and quality assurance. Passionate about eXplainable AI (XAI), I strive to develop innovative and high-quality technological solutions.
+I am Mubashir Iqbal, a Computer Science professional with a Master’s from COMSATS University Islamabad and a Bachelor’s from Virtual University Pakistan. Currently, I served as a Lecturer at HITEC University, teaching and mentoring undergraduate students. My expertise includes AI, machine learning, data science, and software engineering, with a strong focus on system reliability and quality assurance. Passionate about eXplainable AI (XAI), I strive to develop innovative and high-quality technological solutions.
 
 Looking forward to collaborating and making a meaningful impact! 
 ## Connect with me:
@@ -26,6 +26,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 -->
 
 ## 1. Work Experience
+<!--
 ### 👨‍🏫 a. [Khanpur Institute of Technology, Khanpur, Rahim Yar Khan - PK](https://thekit.edu.pk/our-faculty/) :  
 **Designation**: *Lecturer*  
 **Duration**: ( **_April-2026 ~ Present_** )
@@ -38,9 +39,9 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 | **🔬 Curriculum Development** | Review and enhance course content to integrate emerging technologies (e.g., Explainable AI, IoT, Cloud Computing), practical projects, and competency-based learning frameworks. |
 | **📈 Professional Development** | Continuously update pedagogical practices through workshops, conferences, and academic networks; incorporate active learning and project-based methodologies to improve student engagement. |
 | **⚙️ Academic Service** | Contribute to departmental committees, program reviews, accreditation processes (e.g., NCBTE/PEC), and student recruitment initiatives to uphold institutional quality standards. |
+-->
 
-
-### 👨‍🏫 b. [HITEC University, Taxila, Pakistan](https://hitecuni.edu.pk/Faculties/Default.aspx?i=6)  
+### 👨‍🏫 a. [HITEC University, Taxila, Pakistan](https://hitecuni.edu.pk/Faculties/Default.aspx?i=6)  
 **Designation**: *Lecturer*  
 **Duration**: *Nov 2024 – Mar 2026*   
 **Core Courses Taught**: Introduction to Data Science, Artificial Intelligence, Data Structures & Algorithms, Applied Information & Communication Technology (AICT)  
@@ -55,7 +56,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 | **📝 Exam Administration** | Oversee examination processes, ensure academic integrity, enforce assessment protocols, and maintain fair, transparent evaluation practices. |
 
 
-### 💼 c. [Project Management Organization, Taxila, Pakistan](#)  
+### 💼 b. [Project Management Organization, Taxila, Pakistan](#)  
 **Designation**: *Software Developer – Electronics R&D Department*  
 **Duration**: *Jan 2012 – Oct 2024*   
 **Tech Stack**: Qt/C++ • Embedded Systems • STM32 • UART/SPI/I2C • Git • Linux/Windows  
@@ -75,12 +76,25 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 
 |  Sr. No. | Degree 📘  | Institute                                             | From |  To  |GPA (4.0)|
 |  :---:   | :-------- | :------                                                | :--:  | :--: | :--: |
-| I.       | MS(CS)      | [Comsats University Islamabad, Wah Campus, Pakistan](https://cuiwah.edu.pk/)  | 2022  | 2024 | 3.58 |
-| II.      | BS(CS)      | [Virtual University of Pakistan (VU)](https://www.vu.edu.pk/)    | 2014  | 2020 | 3.09 |
+| I.       | PhD(CS)      | [FAST NUCES, Islamabad, Pakistan](https://isb.nu.edu.pk/NEW/this.html)  | 2027  | 2030 | - |
+| II.       | MS(CS)      | [COMSATS University Islamabad, Wah Campus, Pakistan](https://cuiwah.edu.pk/)  | 2022  | 2024 | 3.58 |
+| III.      | BS(CS)      | [Virtual University of Pakistan (VU)](https://www.vu.edu.pk/)    | 2014  | 2020 | 3.09 |
 
 
 ## 3. Educational Projects / Research Projects 💻:
-### a. Master Degree  
+### a. Doctor of Philosophy  
+**Degree Details**: 
+- ***Title & Duration***: Doctor of Philosophy (Computer Science - **_Data Science_**), 2027-2030
+- ***Courses Taken***: [`Here`](coursesPhD.md) is the summary of Courses and other Training Activities.   
+- ***Keywords***: Multi-Model AI, Medical-Vision-Model, Neural Networks, Explainable AI, Interpretable AI, SHAP
+
+**Achievements:**
+|  Sr. No. | Type    | Title  | Journal  | Publication Date | Paper      |    DOI     |    Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />       |
+| :------: | :-----: | :----- | :------- |      :---:       | :--------: | :--------: | :---------: |
+| I. | Thesis | Medical Vision-Language Models with Explainable AI (XAI)  | --- | --- | --- | --- | [GitHub Repo](#) |
+
+
+### b. Master Degree  
 **Degree Details**: 
 - ***Title & Duration***: Master of Science (Computer Science - **_Data Science_**), 2022-2024
 - ***Courses Taken***: [`Here`](courses.md#b-courses-taken-in-master-degree) is the summary of Courses and other Training Activities.   
@@ -95,7 +109,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 
 
 
-### b. Bachelor Degree 
+### c. Bachelor Degree 
 **Degree Details**: 
 - ***Title***: Bachelor of Science (Computer Science - **_Web Development_**, 4 Years Program) (2020)
 - ***Keywords***: Software Engineering, Web development, Web Applications, Web Security, Information Security. 

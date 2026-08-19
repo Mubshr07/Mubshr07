@@ -84,7 +84,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 ## 3. Educational Projects / Research Projects 💻:
 ### a. Doctor of Philosophy  
 **Degree Details**: 
-- ***Title & Duration***: Doctor of Philosophy (Computer Science - **_Data Science_**), 2027-2030
+- ***Title & Duration***: Doctor of Philosophy (Computer Science), 2027-2030
 - ***Courses Taken***: [`Here`](coursesPhD.md) is the summary of Courses and other Training Activities.   
 - ***Keywords***: Multi-Model AI, Medical-Vision-Model, Neural Networks, Explainable AI, Interpretable AI, SHAP
 
@@ -96,7 +96,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 
 ### b. Master Degree  
 **Degree Details**: 
-- ***Title & Duration***: Master of Science (Computer Science - **_Data Science_**), 2022-2024
+- ***Title & Duration***: Master of Science (Computer Science), 2022-2024
 - ***Courses Taken***: [`Here`](courses.md#b-courses-taken-in-master-degree) is the summary of Courses and other Training Activities.   
 - ***Dataset Used***: (NHANES) National Health and Nutrition Examination Survey (50 Features and 37079 records)
 - ***Keywords***: Heart Disease Prediction, NHANES, MLP, Neural Network, Explainable AI, Interpretable AI, SHAP, SummaryPlot, WaterFall Plot, SciKit-Learn, SMOTE, ADAYSN.

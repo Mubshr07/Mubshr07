@@ -1,11 +1,17 @@
-# Hi 👋, I'm Mubashir Iqbal
-### PhD Scholar | Lecturer | Data Science Research | Artificial Intelligence | System Engineering & Automation
+# Hi 👋, I'm Mubashir Iqbal 
+### AI/ML Engineer | 12+ Years in System & Embedded Software (Qt/C++) → Applied Machine Learning & Explainable AI | System Engineering & Automation | PhD Candidate, FAST-NUCES
 
 
 ## 🚀 About Me
-I am Mubashir Iqbal, a Computer Science professional with a Master’s from COMSATS University Islamabad and a Bachelor’s from Virtual University Pakistan. Currently, I served as a Lecturer at HITEC University, teaching and mentoring undergraduate students. My expertise includes AI, machine learning, data science, and software engineering, with a strong focus on system reliability and quality assurance. Passionate about eXplainable AI (XAI), I strive to develop innovative and high-quality technological solutions.
+> I am an AI/ML Engineer with a somewhat unusual path into AI: 12 years building real-time embedded and desktop systems (Qt/C++, STM32, DE10-Nano) for mission-critical applications at Pakistan's National Engineering and Scientific Commission, followed by a shift into applied machine learning and university teaching.
 
-Looking forward to collaborating and making a meaningful impact! 
+> That embedded background shapes how I approach AI — I care less about model accuracy in a notebook and more about whether a system actually works reliably in production, under real hardware and data constraints. My Master's thesis applied Explainable AI (SHAP) to heart disease prediction, and I've since taught AI, Machine Learning, and Data Science to university students while staying hands-on with TensorFlow, PyTorch, and Scikit-learn.
+
+> I am currently a PhD candidate in Computer Science at FAST-NUCES, Islamabad, working on multimodal and explainable AI for medical applications — and actively looking for AI/ML Engineer roles where I can bring both the research depth and the systems-engineering discipline to real products.
+
+Open to connecting with people working on applied ML, embedded AI, or explainable AI in Pakistan and beyond.
+
+
 ## Connect with me:
 <div style="margin-bottom: 50px;">
   <div style="display: flex; flex-wrap: wrap; gap: 150px; align-items: center;">

@@ -82,7 +82,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 
 |  Sr. No. | Degree 📘  | Institute                                             | From |  To  |GPA (4.0)|
 |  :---:   | :-------- | :------                                                | :--:  | :--: | :--: |
-| I.       | PhD(CS)      | [FAST NUCES, Islamabad, Pakistan](https://isb.nu.edu.pk/NEW/this.html)  | 2027  | 2030 | - |
+| I.       | PhD(CS)      | [FAST NUCES, Islamabad, Pakistan](https://isb.nu.edu.pk/NEW/this.html)  | 2026  | 2030 | - |
 | II.       | MS(CS)      | [COMSATS University Islamabad, Wah Campus, Pakistan](https://cuiwah.edu.pk/)  | 2022  | 2024 | 3.58 |
 | III.      | BS(CS)      | [Virtual University of Pakistan (VU)](https://www.vu.edu.pk/)    | 2014  | 2020 | 3.09 |
 

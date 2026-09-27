@@ -90,7 +90,7 @@ Completed projects related  to ***Artificial Intelligence***, ***data Science***
 ## 3. Educational Projects / Research Projects 💻:
 ### a. Doctor of Philosophy  
 **Degree Details**: 
-- ***Title & Duration***: Doctor of Philosophy (Computer Science), 2027-2030
+- ***Title & Duration***: Doctor of Philosophy (Computer Science), 2026-2030
 - ***Courses Taken***: [`Here`](coursesPhD.md) is the summary of Courses and other Training Activities.   
 - ***Keywords***: Multi-Model AI, Medical-Vision-Model, Neural Networks, Explainable AI, Interpretable AI, SHAP
 
